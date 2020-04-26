@@ -50,9 +50,9 @@ extension ___VARIABLE_productName___ViewController {}
     func onRecv___VARIABLE_productName___Noti(_ noti: Notification) {}
 }
 
-// MARK: - {{module_info.name}}ViewInput
+// MARK: - ___VARIABLE_productName___ViewInput
 
-extension ___VARIABLE_productName___ViewController: {{module_info.name}}ViewInput {}
+extension ___VARIABLE_productName___ViewController: ___VARIABLE_productName___ViewInput {}
 
 // MARK: - ___VARIABLE_productName___ModuleBuilder
 
