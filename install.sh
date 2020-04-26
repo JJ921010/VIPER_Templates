@@ -1,4 +1,4 @@
-#!/usr/make
+#!/bin/bash
 
 templates=~/Library/Developer/Xcode/Templates
 
