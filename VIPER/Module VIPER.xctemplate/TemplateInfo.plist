@@ -30,11 +30,11 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>viewType</string>
+			<string>languageType</string>
 			<key>Required</key>
 			<true/>
 			<key>Name</key>
-			<string>View Type:</string>
+			<string>Language:</string>
 			<key>Description</key>
 			<string>The type of view to use</string>
 			<key>Type</key>
